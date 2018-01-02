@@ -19,6 +19,7 @@ class Program {
         } else {
             perimeter = 0;
             return false;
+			//todo
         }
     }
 
